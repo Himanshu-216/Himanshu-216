@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-specc&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-specc" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+
 
 - 📫 How to reach me **himanshu162pnt@gmail.com**
 
